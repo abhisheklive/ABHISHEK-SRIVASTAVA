@@ -1,3 +1,6 @@
+//basic documentations for this project
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<mp.h>
@@ -57,6 +60,7 @@ score++;
     gotoxy(x4,y);
 printf("%c",ch1);
 getkeypressed();
+	 //getting insight of pressed key
 score++;
 }
  for(nCount,nCount<1;nCount++)
